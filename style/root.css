@@ -1,0 +1,36 @@
+:root {
+  --krv-blue: #0d6efd;
+  --krv-indigo: #6610f2;
+  --krv-purple: #6f42c1;
+  --krv-pink: #d63384;
+  --krv-red: #f00;
+  --krv-orange: #fd7e14;
+  --krv-yellow: #ffc107;
+  --krv-green: #198754;
+  --krv-teal: #20c997;
+  --krv-cyan: #0dcaf0;
+  --krv-white: #fff;
+  --krv-gray: #6e6e6e;
+  --krv-light-gray: #adabab;
+  --krv-gray-dark: #343a40;
+  --krv-primary: #1946e5;
+  --krv-secondary: #6c757d;
+  --krv-success: #198754;
+  --krv-info: #0dcaf0;
+  --krv-warning: #ffc107;
+  --krv-danger: #dc3545;
+  --krv-light: #f8f9fa;
+  --krv-dark: #212529;
+  --krv-youtube: Roboto, Arial, sans-serif;
+  --krv-bg-white: #fff;
+  --krv-bg-dark: #212529;
+  --krv-bg-grey: rgba(0, 0, 0, 0.04);
+  --krv-bg-gray: rgba(0, 0, 0, 0.09);
+  --krv-bg-white-hover: rgba(0, 0, 0, 0.05);
+  --krv-bg-light-hover: rgba(0, 0, 0, 0.2);
+  --krv-bg-dark-hover: rgba(54, 54, 54, 0.8);
+  --krv-border-color-white: rgba(0, 0, 0, 0.07);
+  --krv-border-color-dark: rgba(54, 54, 54, 0.8);
+  --krv-box-shadow-white: 0 1px 20px 0 rgba(0, 0, 0, 0.1),
+    0 0px 2px 0 rgba(0, 0, 0, 0.09);
+}
